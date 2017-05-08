@@ -8,8 +8,7 @@
     "war": [
       {
         "file": "target/dddsample-2.0-SNAPSHOT.war",
-        "context": "/",
-        "checkMe": "/blupp/ping"
+        "context": "/"
       }
     ]
   }
