@@ -4,7 +4,7 @@
     "goal": "package"
   },
   "deploy": {
-    "container": "TOMCAT8",
+    "container": "JETTY9",
     "war": [
       {
         "file": "target/dddsample-2.0-SNAPSHOT.war",
